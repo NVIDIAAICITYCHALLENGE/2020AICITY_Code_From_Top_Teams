@@ -3,6 +3,7 @@ The code from the top teams in the 2020 AI City Challenge (not in any paraticula
 
 ## Track 1: Multi-Class Multi-Movement Vehicle Counting
 * [Baidu](https://github.com/PaddlePaddle/Research/tree/master/CV/VehicleCounting)
+* [ENGIE](https://github.com/AndresOsp/Track1)
 * [CMU-UTS](https://github.com/Lijun-Yu/zero_virus)
 * [DiDi1](https://github.com/liwenwei123/AIC_2020_Challenge_Track-1)
 * [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
