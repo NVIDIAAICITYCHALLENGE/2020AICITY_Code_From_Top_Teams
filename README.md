@@ -23,7 +23,7 @@ The code from the top teams in the 2020 AI City Challenge (not in any paraticula
 
 ## Track 3: City-Scale Multi-Camera Vehicle Tracking
 * [CMU](https://github.com/KevinQian97/ELECTRICITY-MTMC)
-* [XJTU](https://github.com/GehenHe/AIC20_Alpha)
+* [XJTU](https://github.com/GehenHe/AIC20_Alpha) (Private)
 
 ## Track 4: Traffic Anomaly Detection
 * [Baidu-SYSU](https://github.com/PaddlePaddle/Research/tree/master/CV/AICity2020-Anomaly-Detection)
