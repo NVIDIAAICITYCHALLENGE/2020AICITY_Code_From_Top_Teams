@@ -5,7 +5,7 @@ The code from the top teams in the 2020 AI City Challenge (not in any paraticula
 * [Baidu](https://github.com/PaddlePaddle/Research/tree/master/CV/VehicleCounting)
 * [ENGIE](https://github.com/AndresOsp/Track1)
 * [CMU-UTS](https://github.com/Lijun-Yu/zero_virus)
-* [DiDi1](https://github.com/liwenwei123/AIC_2020_Challenge_Track-1)
+* [DiDi1](https://github.com/liwenwei123/AIC_2020_Challenge_Track-1) (Private)
 * [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
 * [DCU](https://github.com/adityabansal98/AI_City_Track1_Insight-DCU)
 * [DiDi2](https://github.com/Jilliansea/DTTM-Vehicle-Counting)
@@ -17,7 +17,7 @@ The code from the top teams in the 2020 AI City Challenge (not in any paraticula
 * [ZJU-Alibaba](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
 * [IOSB](https://github.com/corner100/2020-aicitychallenge-IOSB-VeRi)
 * [USTC](https://github.com/zgcr/AICITY2020_track2_reid_BeBetter)
-* [TUE](https://github.com/xPlusUltra/vehicle_reid.git)
+* [TUE](https://github.com/xPlusUltra/vehicle_reid.git) (Private)
 * [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
 * [CMUT](https://github.com/gggcy/AIC2020_ReID)
 
