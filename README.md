@@ -1,5 +1,5 @@
 # 2020AICITY_Code_From_Top_Teams
-The code from the top teams in the 2020 AI City Challenge (not in any paraticular order)
+The code from the top teams in the 2020 AI City Challenge (not in any particular order)
 
 ## Track 1: Multi-Class Multi-Movement Vehicle Counting
 * [Baidu](https://github.com/PaddlePaddle/Research/tree/master/CV/VehicleCounting)
