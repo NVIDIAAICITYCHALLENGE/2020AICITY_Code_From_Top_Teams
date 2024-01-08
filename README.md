@@ -19,7 +19,7 @@ The code from the top teams in the 2020 AI City Challenge (not in any particular
 * [USTC](https://github.com/zgcr/AICITY2020_track2_reid_BeBetter)
 * [TUE](https://github.com/xPlusUltra/vehicle_reid.git) (Private)
 * [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
-* [CMUT](https://github.com/gggcy/AIC2020_ReID)
+* [CUMT](https://github.com/gggcy/AIC2020_ReID)
 
 ## Track 3: City-Scale Multi-Camera Vehicle Tracking
 * [CMU](https://github.com/KevinQian97/ELECTRICITY-MTMC)
